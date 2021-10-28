@@ -1,33 +1,34 @@
 Borough,Population
-Barking and Dagenham,"212,906"
-Barnet,"395,896"
-Bexley,"248,287"
-Brent,"329,771"
-Bromley,"332,336"
-Camden,"270,029"
-Croydon,"386,710"
-Ealing,"341,806"
-Enfield,"333,794"
-Greenwich,"287,942"
-Hackney,"281,120"
-Hammersmith and Fulham,"185,143"
-Haringey,"268,647"
-Harrow,"251,160"
-Havering,"259,552"
-Hillingdon,"306,870"
-Hounslow,"271,523"
-Islington,"242,467"
-Kensington and Chelsea,"156,129"
-Kingston upon Thames,"177,507"
-Lambeth,"326,034"
-Lewisham,"305,842"
-Merton,"206,548"
-Newham,"353,134"
-Redbridge,"305,222"
-Richmond upon Thames,"198,019"
-Southwark,"318,830"
-Sutton,"206,349"
-Tower Hamlets,"324,745"
-Waltham Forest,"276,983"
-Wandsworth,"329,677"
-Westminster,"261,317"
+Barking and Dagenham,212906
+Barnet,395896
+Bexley,248287
+Brent,329771
+Bromley,332336
+Camden,270029
+Croydon,386710
+Ealing,341806
+Enfield,333794
+Greenwich,287942
+Hackney,281120
+Hammersmith and Fulham,185143
+Haringey,268647
+Harrow,251160
+Havering,259552
+Hillingdon,306870
+Hounslow,271523
+Islington,242467
+Kensington and Chelsea,156129
+Kingston upon Thames,177507
+Lambeth,326034
+Lewisham,305842
+Merton,206548
+Newham,353134
+Redbridge,305222
+Richmond upon Thames,198019
+Southwark,318830
+Sutton,206349
+Tower Hamlets,324745
+Waltham Forest,276983
+Wandsworth,329677
+Westminster,261317
+City of London,29705
