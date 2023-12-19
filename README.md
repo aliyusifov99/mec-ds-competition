@@ -28,6 +28,7 @@ The objective was to leverage data science and machine learning techniques to an
 - Ali Yusifov
 - Elnur Shahbalayev
 - Zaid Ashraf
+- Nail Karimov
 
 ## Acknowledgments 🙏
 We express our gratitude to the organizers of the Millennial Energy Challenge and mentors who guided us through this journey.
